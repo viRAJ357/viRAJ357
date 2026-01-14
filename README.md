@@ -135,8 +135,6 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
   </tr>
   <tr>
-    
-
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=django" width="55" height="55" /><br>Django</td>
     <td align="center" width="90"><img src="iDRF.webp" width="55" height="55" /><br>DRF</td>
@@ -159,7 +157,6 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/scikit-learn-orange" width="55" height="55" /><br>Scikit-Learn</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55" /><br>AndroidStudio</td>
-    
     <td align="center" width="90"><img src="https://img.shields.io/badge/openai-blue" width="55" height="55" /><br>OpenAI</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/pycharm-darkgreen" width="55" height="55" /><br>PyCharm</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/intellijIDEA-purple" width="55" height="55" /><br>IntelliJ IDEA</td>
