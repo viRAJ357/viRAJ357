@@ -36,7 +36,7 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
 ---
 ## About Me
 <!-- <img align="right" alt="Coding" width="500" height="350" src="https://www.ahmetyardimci.com/wp-content/uploads/2024/08/helloworld_1.gif"> -->
-<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="360" height="360"></img></a>
+<a><img align="right" src="/GOKU.mp4" width="360" height="360"></img></a>
 
 🔥 **About Me (Skills)** — [**Why I Belong in Your Team**](your-portfolio-link-here)  
 - 💻 Passionate **Full Stack Developer** skilled in **MERN** and **Python** stacks — building scalable, high-performance solutions.  
