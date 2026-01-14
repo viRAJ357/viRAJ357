@@ -39,7 +39,7 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
 <a><img align="right" src="/GOKU.gif" width="360" height="360"></img></a>
 
 🔥 **About Me (Skills)** — [**Why I Belong in Your Team**](your-portfolio-link-here)  
-- 💻 Passionate **Full Stack Developer** skilled in **MERN** and **Python** stacks — building scalable, high-performance solutions.  
+- 💻 Passionate **ai/ml + datascience** skilled in **MERN** and **Python** stacks — building scalable, high-performance solutions.  
 - 🧠 **Problem-Solving Enthusiast** — Exploring and Handsonworking on RealWorld projects.  
 - 🚀 Experienced in **end-to-end Mlmodels**, mlops , databases, and DevOps workflows.  
 - 🏆 **Achievements:** 🥇 *microsoftcertifcate* (linkdn certificate) • 🥈 *best college student * • ⭐ *Agentic AI*.  
@@ -93,26 +93,11 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
 
 * 🔍 Implemented **advanced regex and data-cleaning techniques** to refine extracted content and enhance dataset quality.
 
-* 💻 Built a **React-based visual verification interface** for image–caption validation, enabling seamless **human-in-the-loop** data correction and review.
+
 
 * 🚀 Delivered a **modular, reusable document-processing framework** supporting the department’s ongoing **AI-driven document intelligence** research.
 
 
-
-## 🏆 DSA Battleground
-
-<a><img align="right" src="DSAPractiseImage.png" width="350"/></a>
-
-🚀 Excited to share my journey of **Data Structures & Algorithms mastery** — built through **daily consistency, curiosity, and hands-on problem-solving** across top coding platforms.
-
-Over the past year, I’ve **solved 1000+ DSA problems** across **GeeksforGeeks, HackerRank, and CodeStudio**, maintaining a **329-day active streak** and earning **31 coding awards** including **5⭐ badges in C, Python, and Java** 🥇.
-
-💡 My focus areas span across **Arrays, Algorithms, Trees, HashMaps, and Dynamic Programming**, with deep exploration into **real-world coding patterns and system-level problem analysis**.
-
-**Platform Highlights 🧩**
-- **GeeksforGeeks:** 95+ problems solved in core DSA and fundamentals.
-- **HackerRank:** 78+ problems, 5⭐ in Python, Java, and Problem Solving.
-- **CodeStudio & Other Platforms:** Active problem-solving in advanced algorithmic challenges.
 
 
 
