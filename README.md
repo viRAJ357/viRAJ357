@@ -1,12 +1,12 @@
 <img src="background.jpeg" style="width:100%; height:250px; object-fit:cover;" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Nikhil Kumar Singh (AI/ML Enthusiast)</b></h1>
-<!-- <h1 align="center">Hi 👋, I'm Atul Kumar Rajak.</h1> -->
-<h2 align="center"><b>Full Stack Developer & AI Explorer , Fresher as CSE Undergard 💯</b></h2> 
+<!-- <h1 align="center">Hi 👋, Im Nikhilkumar singh.</h1> -->
+<h2 align="center"><b>Datascience and AI/ML & AI Explorer , Fresher as Btech CSE Undergard 💯</b></h2> 
 
-<!-- <h3 align="center"> 🚀 Passionate Developer  | Frontend & Backend Enthusiast | Problem Solver</h3> -->
- <p align="center"><b>Ex - Intern At IIT KGP | Intern At Labmentix | Software Developer | Alumini @Coding Ninjas | Python Stack Developer | MERN Stack Developer|  5 ⭐ Coder At HackerRank  | Code Crusader ⭐ At Coding Ninjas 🚀 |  Institute 22🥇 Rank GFG | Open Source Learner | 
-Tech Explorer  |💡 Turning Ideas into Code
+<!-- <h3 align="center"> 🚀 datascience   | AI Enthusiast | Problem Solver</h3> -->
+ <p align="center"><b>Ex - Intern At Istudio | Intern At Labmentix | Ai/ML | campus x Student  | Deeplearning| Datascience full Developer|  MLOPS  | DATA WORKER|  GOOGLE CERTIFICATE  | Open Source Learner | 
+AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models 
 </b></p>
 
 <p align="center">
@@ -29,7 +29,7 @@ Tech Explorer  |💡 Turning Ideas into Code
   <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" />
  </a> -->
    <a href="mailto:atulkumarrajak11@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Atul Kumar" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Nikhil Kumar" />
  </a> 
 </p>
 
@@ -40,41 +40,40 @@ Tech Explorer  |💡 Turning Ideas into Code
 
 🔥 **About Me (Skills)** — [**Why I Belong in Your Team**](your-portfolio-link-here)  
 - 💻 Passionate **Full Stack Developer** skilled in **MERN** and **Python** stacks — building scalable, high-performance solutions.  
-- 🧠 **Problem-Solving Enthusiast** — exploring DSA and algorithms to craft efficient, production-ready code.  
-- 🚀 Experienced in **end-to-end app design**, RESTful APIs, databases, and DevOps workflows.  
-- 🏆 **Achievements:** 🥇 *IEEE Poster Presentation Winner* (Bhubaneswar Section, among 30+ teams) • 🥈 *2nd in Technical Coding Quiz – Gajajyoti 2025* • ⭐ *5-Star Coder on HackerRank*.  
-- 🌱 Continuously learning new technologies — from backend optimizations to frontend performance.  
+- 🧠 **Problem-Solving Enthusiast** — Exploring and Handsonworking on RealWorld projects.  
+- 🚀 Experienced in **end-to-end Mlmodels**, mlops , databases, and DevOps workflows.  
+- 🏆 **Achievements:** 🥇 *microsoftcertifcate* (linkdn certificate) • 🥈 *best college student * • ⭐ *Agentic AI*.  
+- 🌱 Continuously learning new technologies — ML MODELS TO AGENTIC AI.  
 - 🧩 Collaborative **Team Player & Innovator**, passionate about turning ideas into impactful products.  
 - ⚡ Outside of tech, I enjoy adventures trips , vlogging , and taking on creative challenges.  
 
 
-<!-- - 🔭 I’m currently working on **NextJs**
+<!-- - 🔭 I’m currently working on **LLMS**
 
-- 🌱 I’m currently learning **NextJs and NodeJs**
+- 🌱 I’m currently learning **AGENTIC AI**
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MLOPS**
 
-- 📫 How to reach me **atkrr04@gmail.com.**
+- 📫 How to reach me *nikhilsingh.aarya@gmail.com.**
 
-- ⚡ Fun fact **I think I am funny** -->
+- ⚡ Fun fact **I think Im Smart** -->
 
 
 ---
 
 ## 👨‍🏫 Professional Experience 
 
-### **Infotect Solutions - Bengaluru, India**
+### **LABMENTIX**
 
 #### **Python Developer Intern (From Aug 2025 - Oct 2025)**
 
-* 🤖 Contributed to two **enterprise-level AI projects** — *AI Collaboration Platform* and *Gamified Server Shepherd* — under the **Industry-Level Python Development Program** focused on **real-time systems, AI/CV integration, and interactive dashboards**.
+* 🤖 Contributed to two **enterprise-level AI ** — *AI Collaboration Platform* and *Gamified Server Shepherd* — under the **Industry-Level Python Development Program** focused on **real-time systems, AI/CV integration, and interactive dashboards**.
 
-* ⚙️ **Developed scalable FastAPI backends** integrated with **WebSockets** for real-time synchronization, communication, and collaborative user interaction across distributed clients.
+
 
 * 🧠 Worked on the **AI-Assisted Collaboration Platform**, implementing:
-  * A **real-time web-based canvas engine** for multi-user drawing and brainstorming.
   * **AI-assisted diagram correction** using multimodal models (Gemini / GPT-4o) to auto-align, clean, and structure messy user sketches.
   * End-to-end **RAG-like pipeline integration** for interpreting and rebuilding visual diagrams from AI responses.
 
@@ -83,17 +82,7 @@ Tech Explorer  |💡 Turning Ideas into Code
   * Designed **log-parsing and broadcasting layers** via FastAPI and WebSockets.
   * Created **interactive UI elements** using React + p5.js for real-time visual feedback and error acknowledgment events.
 
-* 🧩 Collaborated on a **real-time AI/CV pipeline** for **Urban Micro-Climate Mapping**, applying **OpenCV** for environment inference (sun, shadow, wetness) and **Leaflet.js** for live geospatial dashboards.
 
-* 🚀 Delivered production-ready, containerized solutions using **Docker**, **MongoDB/PostgreSQL**, and **Redis**, ensuring fault-tolerant and scalable architectures for real-time AI applications.
-
-* 📘 Demonstrated strong cross-functional collaboration, full-stack design thinking, and deployment readiness for **AI-driven real-time applications**.
-
----
-
-### **Indian Institute of Technology, Kharagpur**
-
-#### **Research Intern — Department of Artificial Intelligence (From Dec 2024 - Jan 2025)**
 
 * 🧠 Worked on the research topic — **“Document Image Analysis and Extraction Automation”**, focused on building intelligent systems for automated document understanding and dataset generation.
 
@@ -108,18 +97,7 @@ Tech Explorer  |💡 Turning Ideas into Code
 
 * 🚀 Delivered a **modular, reusable document-processing framework** supporting the department’s ongoing **AI-driven document intelligence** research.
 
-* 👨‍🏫 Mentored and guided by **Prof. Plaban Kumar Bhowmick**, *Centre of Excellence in AI, IIT Kharagpur*.
 
-## ❤️ My Achievements On Coding
-
-<p align="center"> 
-<img src="5StarSQLBadge.png" height="180px" width="180px">
-<img src="CLanguage5Star.png" height="180px" width="180px">
-<img src="Java5Star.png" height="180px" width="180px">
-<img src="Python5Star.png" height="180px" width="180px">
-</p> 
-
----
 
 ## 🏆 DSA Battleground
 
@@ -136,17 +114,7 @@ Over the past year, I’ve **solved 1000+ DSA problems** across **GeeksforGeeks,
 - **HackerRank:** 78+ problems, 5⭐ in Python, Java, and Problem Solving.
 - **CodeStudio & Other Platforms:** Active problem-solving in advanced algorithmic challenges.
 
-<a><img align="right" src="Ninja.gif" width="260" height="260" /></a>
 
-**DSA Progress Snapshot ⚙️**
-- **Easy:** 389 Problems  
-- **Medium:** 437 Problems  
-- **Hard:** 71 Problems  
-- **Total:** 897+ DSA Problems Solved 💪  
-
-🔥 **Total Questions Solved:** 1070+  
-📅 **Total Active Days:** 329+  
-🏅 **Awards:** 31+ (including 5⭐ C, Python, Java)
 
 Each problem I solve strengthens my foundation, and every day of practice fuels my curiosity to explore new concepts.  
 I’m continuously learning, evolving, and looking forward to mastering even more challenging problems ahead! 💻🚀
@@ -167,9 +135,8 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" /><br>Bootstrap</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" /><br>Next.js</td>
+    
+
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=django" width="55" height="55" /><br>Django</td>
     <td align="center" width="90"><img src="iDRF.webp" width="55" height="55" /><br>DRF</td>
@@ -192,7 +159,7 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/scikit-learn-orange" width="55" height="55" /><br>Scikit-Learn</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55" /><br>AndroidStudio</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/reactquery-pink" width="55" height="55" /><br>React Query</td>
+    
     <td align="center" width="90"><img src="https://img.shields.io/badge/openai-blue" width="55" height="55" /><br>OpenAI</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/pycharm-darkgreen" width="55" height="55" /><br>PyCharm</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/intellijIDEA-purple" width="55" height="55" /><br>IntelliJ IDEA</td>
@@ -200,11 +167,7 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
     <td align="center" width="90"><img src="https://img.shields.io/badge/githubcopilot-blue" width="55" height="55" /><br>GitHub Copilot</td>
    
 </tr>
-  <tr>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" /><br>C</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
-  </tr>
+  
 </table>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
@@ -217,15 +180,7 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
 </a> -->
 
 ## 📊 My GitHub Stats
-<br/>
-
-<a href="https://github.com/Ak-Rajak/github-readme-stats">
-  <img alt="Atul Rajak's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ak-Rajak&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Ak-Rajak/github-readme-stats">
-  <img alt="Atul Rajak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-Rajak&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-
+#
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -269,14 +224,7 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
 </p> -->
 
 <!-- Profile Views  -->
-## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ak-Rajak">
-</a>
-<a href="https://github.com/Ak-Rajak?tab=followers">
-    <img src="https://img.shields.io/github/followers/Ak-Rajak?label=Followers&style=social" alt="GitHub Badge">
-</a>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-rajak&label=Profile%20views&color=0e75b6&style=flat" alt="ak-rajak" /> </p> -->
