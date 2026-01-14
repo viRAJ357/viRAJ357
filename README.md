@@ -120,17 +120,15 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
+    <td 
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=django" width="55" height="55" /><br>Django</td>
     <td align="center" width="90"><img src="iDRF.webp" width="55" height="55" /><br>DRF</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" /><br>Fastapi</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
+    
   </tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" /><br>Supabase</td>
+    <td 
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kotlin" width="55" height="55" /><br>Kotlin</td>
@@ -161,7 +159,7 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
   <img alt="Atul Rajak's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ak-Rajak&theme=react&hide_border=true&background=0D1117" />
 </a> -->
 
-## 📊 My GitHub Stats
+
 #
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -180,7 +178,7 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-## ⌛ GitHub Trophies
+
 
 ![](https://github-profile-trophy.vercel.app/?username=Ak-Rajak&theme=radical&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
 
