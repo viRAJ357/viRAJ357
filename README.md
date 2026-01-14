@@ -1,6 +1,6 @@
-<img src="background2.jpg" style="width:100%; height:250px; object-fit:cover;" />
+<img src="background.jpeg" style="width:100%; height:250px; object-fit:cover;" />
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Atul Kumar Rajak (Tech Sorcerer’s Apprentice)</b></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Nikhil Kumar Singh (AI/ML Enthusiast)</b></h1>
 <!-- <h1 align="center">Hi 👋, I'm Atul Kumar Rajak.</h1> -->
 <h2 align="center"><b>Full Stack Developer & AI Explorer , Fresher as CSE Undergard 💯</b></h2> 
 
