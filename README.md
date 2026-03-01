@@ -110,10 +110,10 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
 <table align="center">
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
-    <td >
-    <td >
-    <td  /
-    <td  />
+    < >
+    < >
+    <>
+    <>
     <td >
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
