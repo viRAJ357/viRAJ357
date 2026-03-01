@@ -78,17 +78,17 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
   * End-to-end **RAG-like pipeline integration** for interpreting and rebuilding visual diagrams from AI responses.
 
 * 🎮 Engineered **Gamified “Server Shepherd” Dashboard**, a novel log monitoring tool that converts server health visualization into an engaging, interactive simulation.
-  * Built a **Python log-tail agent** to stream data from NGINX servers in real-time.
-  * Designed **log-parsing and broadcasting layers** via FastAPI and WebSockets.
-  * Created **interactive UI elements** using React + p5.js for real-time visual feedback and error acknowledgment events.
+  * Built a **LISA AI GOD MODE  SYSTEM CONTROLLER** WORK WITH REALTIME SYSTEM CONTROL AI AGENT.
+  
+   
 
 
 
-* 🧠 Worked on the research topic — **“Document Image Analysis and Extraction Automation”**, focused on building intelligent systems for automated document understanding and dataset generation.
+* 🧠 Worked on the research topic — **“BARIN MRI”**, FOCUS ON EACH SECTION LIKE PRESCISION RECALL MODEL ACCURACY.
 
-* ⚙️ Developed an **end-to-end Python pipeline** leveraging **PyMuPDF** for:
+* ⚙️ Developed an **GIRL CHAT BOT** leveraging **PyMuPDF** ANY PERSON CAN TALK  AND CHAT
   * Multi-page technical PDF parsing, **figure + caption extraction**, and **bounding box association**.
-  * **Figure ID detection** to ensure precise image–caption linkage.
+  * **FACIAL DETECTION** to ENSURE FACE WITH BEST BOUNDING BOX.
   * Structured **JSON metadata generation** for downstream AI/ML research.
 
 * 🔍 Implemented **advanced regex and data-cleaning techniques** to refine extracted content and enhance dataset quality.
