@@ -16,7 +16,7 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
  <a href="https://www.linkedin.com/in/atul-kumar-rajak-3061b4288/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Atul Kumar"/>
  </a>
- <a href="https://github.com/Ak-Rajak" target="_blank">
+ <a href="https://github.com/viRAJ357/viRAJ357/tree/main" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ak-Rajak" />
  </a>
  <a href="https://twitter.com/" target="_blank">
