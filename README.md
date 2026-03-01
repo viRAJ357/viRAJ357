@@ -28,7 +28,7 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
     <a href="https://topmate.io/itsprincesingh" target="blank">
   <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" />
  </a> -->
-   <a href="mailto:atulkumarrajak11@gmail.com" target="_blank">
+   <a href="mailto:nikhilsingh.aarya@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Nikhil Kumar" />
  </a> 
 </p>
