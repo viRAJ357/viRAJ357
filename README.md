@@ -22,7 +22,7 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
  <a href="https://twitter.com/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://www.instagram.com/at_kr_11/" target="_blank">
+ <a href="https://www.instagram.com/nikhilkumar421?igsh=MThnbmI2Y214MXdocA==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Atul" />
  <!-- </a> 
     <a href="https://topmate.io/itsprincesingh" target="blank">
