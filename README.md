@@ -13,7 +13,7 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
     <!-- <a href="https://www.youtube.com/@PrinceSinghCSE" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Prince Singh" />
  </a>  -->
- <a href="https://www.linkedin.com/in/atul-kumar-rajak-3061b4288/" target="_blank">
+ <a href="https://www.linkedin.com/in/nikhil-kumar-406217323" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Atul Kumar"/>
  </a>
  <a href="https://github.com/viRAJ357/viRAJ357/tree/main" target="_blank">
