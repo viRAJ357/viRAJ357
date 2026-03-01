@@ -106,117 +106,57 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
 
 ---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Use To Code</b> 💻
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body{
-    background-color:#0d1117;
-    font-family:Arial, sans-serif;
-}
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="60"/><br>Python
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>MongoDB
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>MySQL
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="60"/><br>HTML
+</td>
+</tr>
 
-.skills{
-    display:grid;
-    grid-template-columns:repeat(4,120px);
-    gap:20px;
-    justify-content:center;
-    margin-top:50px;
-}
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=django" width="60"/><br>Django
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=aws" width="60"/><br>AWS
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker
+</td>
+</tr>
 
-.card{
-    background-color:#161b22;
-    border:1px solid #30363d;
-    border-radius:12px;
-    text-align:center;
-    padding:20px 10px;
-    transition:0.3s;
-}
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgresql" width="60"/><br>PostgreSQL
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux" width="60"/><br>Linux
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="60"/><br>VS Code
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=figma" width="60"/><br>Figma
+</td>
+</tr>
+</table>
 
-.card:hover{
-    transform:scale(1.05);
-    border-color:#58a6ff;
-}
 
-.card img{
-    width:55px;
-    height:55px;
-}
 
-.card p{
-    color:white;
-    margin-top:10px;
-    font-size:14px;
-}
-</style>
-</head>
-<body>
 
-<div class="skills">
 
-<div class="card">
-<img src="https://skillicons.dev/icons?i=python">
-<p>Python</p>
-</div>
-
-<div class="card">
-<img src="https://skillicons.dev/icons?i=mongodb">
-<p>MongoDB</p>
-</div>
-
-<div class="card">
-<img src="https://skillicons.dev/icons?i=mysql">
-<p>MySQL</p>
-</div>
-
-<div class="card">
-<img src="https://skillicons.dev/icons?i=html">
-<p>HTML</p>
-</div>
-
-<div class="card">
-<img src="https://skillicons.dev/icons?i=django">
-<p>Django</p>
-</div>
-
-<div class="card">
-<img src="https://skillicons.dev/icons?i=aws">
-<p>AWS</p>
-</div>
-
-<div class="card">
-<img src="https://skillicons.dev/icons?i=git">
-<p>Git</p>
-</div>
-
-<div class="card">
-<img src="https://skillicons.dev/icons?i=docker">
-<p>Docker</p>
-</div>
-
-<div class="card">
-<img src="https://skillicons.dev/icons?i=postgresql">
-<p>PostgreSQL</p>
-</div>
-
-<div class="card">
-<img src="https://skillicons.dev/icons?i=linux">
-<p>Linux</p>
-</div>
-
-<div class="card">
-<img src="https://skillicons.dev/icons?i=vscode">
-<p>VS Code</p>
-</div>
-
-<div class="card">
-<img src="https://skillicons.dev/icons?i=figma">
-<p>Figma</p>
-</div>
-
-</div>
-
-</body>
-</html>
 
 
 
