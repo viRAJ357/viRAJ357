@@ -84,14 +84,14 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
 
 
 
-* 🧠 Worked on the research topic — **“BARIN MRI”**, FOCUS ON EACH SECTION LIKE PRESCISION RECALL MODEL ACCURACY.
+* 🧠 Worked on the research topic — **“BRAIN MRI TUMOR DETECTION”**, FOCUS ON EACH SECTION LIKE PRESCISION RECALL MODEL ACCURACY IT DETECT TUMOR .
 
 * ⚙️ Developed an **GIRL CHAT BOT** leveraging **PyMuPDF** ANY PERSON CAN TALK  AND CHAT
   * Multi-page technical PDF parsing, **figure + caption extraction**, and **bounding box association**.
   * **FACIAL DETECTION** to ENSURE FACE WITH BEST BOUNDING BOX.
   * Structured **JSON metadata generation** for downstream AI/ML research.
 
-* 🔍 Implemented **advanced regex and data-cleaning techniques** to refine extracted content and enhance dataset quality.
+* 🔍 Implemented ** data-cleaning techniques  and features techniques** to refine extracted content and enhance dataset quality.
 
 
 
@@ -110,10 +110,10 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
 <table align="center">
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br>React</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=angular" width="55" height="55" /><br>Angular</td>
+    <td ><img  /><br>JavaScript</td>
+    <td ><img  /><br>TypeScript</td>
+    <td  /><br>React</td>
+    <td  /><br>Angular</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>Node.js</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
