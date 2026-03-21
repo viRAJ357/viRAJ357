@@ -6,7 +6,7 @@
 
 <!-- <h3 align="center"> 🚀 datascience   | AI Enthusiast | Problem Solver</h3> -->
  <p align="center"><b>Ex - Intern At Istudio | Intern At Labmentix | Ai/ML | campus x Student  | Deeplearning| Datascience full Developer|  MLOPS  | DATA WORKER|  GOOGLE CERTIFICATE  | Open Source Learner | 
-AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models 
+AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models  
 </b></p>
 
 <p align="center">
@@ -89,9 +89,9 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
 * ⚙️ Developed an **GIRL CHAT BOT** leveraging **PyMuPDF** ANY PERSON CAN TALK  AND CHAT
   * Multi-page technical PDF parsing, **figure + caption extraction**, and **bounding box association**.
   * **FACIAL DETECTION** to ENSURE FACE WITH BEST BOUNDING BOX.
-  * Structured **JSON metadata generation** for downstream AI/ML research.
+  
 
-* 🔍 Implemented ** data-cleaning techniques  and features techniques** to refine extracted content and enhance dataset quality.
+* 🔍 Implemented ** data-cleaning techniques  and features Engineering techniqueue** to refine extracted content and enhance dataset quality.
 
 
 
