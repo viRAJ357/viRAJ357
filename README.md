@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Nikhil Kumar Singh (AI/ML Enthusiast)</b></h1>
 <!-- <h1 align="center">HEY  👋, My Self Nikhilkumar singh.</h1> -->
-<h2 align="center"><b>Datascience and AI/ML & AI Explorer , Fresher as Btech CSE Undergraduate  💯   My Portfolio link = https://huggingface.co/spaces/viraj-421/AUTONOMOUSPORTFOLIO 
- KAGGLE LINK https://www.kaggle.com/nikhilkumar8085</b></h2> 
+<h2 align="center"><b>Datascience and AI/ML & AI Explorer , Fresher as Btech CSE Undergraduate  💯   </b></h2> 
 
 <!-- <h3 align="center"> 🚀 datascience   | AI Enthusiast | Problem Solver</h3> -->
  <p align="center"><b>Ex - Intern At Istudio | Intern At Labmentix | Ai/ML | campus x Student  | Deeplearning| Datascience full Developer|  MLOPS  | DATA WORKER|  GOOGLE CERTIFICATE  | Open Source Learner | 
