@@ -54,7 +54,7 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
 <h3 align="center">🚀 Quote</h3>
 
 <p align="center">
-  "Consistency + Hard Work = Unstoppable Growth 🔥"
+  " SUCCESS= SMARTWORK+CONSISTENCY+CONFIDENCE"
 </p>
 
 
