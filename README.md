@@ -42,7 +42,7 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
 - 💻 Passionate **ai/ml + datascience** skilled in **MERN** and **Python** stacks — building scalable, high-performance solutions.  
 - 🧠 **Problem-Solving Enthusiast** — Exploring and Handsonworking on RealWorld projects.  
 - 🚀 Experienced in **end-to-end Mlmodels**, mlops , databases, and DevOps workflows.  
-- 🏆 **Achievements:** 🥇 *microsoftcertifcate* (linkdn certificate) • 🥈 *best college student * • ⭐ *Agentic AI*.  
+- 🏆 **Achievements:** 🥇 *microsoftcertifcate* (linkdn certificate) • 🥈 *best college student * • ⭐ *Agentic AI* * successful completed claude Ai course and certified.  
 - 🌱 Continuously learning new technologies — ML MODELS TO AGENTIC AI.  
 - 🧩 Collaborative **Team Player & Innovator**, passionate about turning ideas into impactful products.  
 - ⚡ Outside of tech, I enjoy adventures trips , vlogging , and taking on creative challenges.  
