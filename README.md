@@ -49,14 +49,7 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
 
 ---
 
-<h3 align="center">⚡ My Work</h3>
 
-<p align="center">
-  <a href="https://huggingface.co/spaces/viraj-421/AUTONOMOUSPORTFOLIO" target="_blank"><b>🌐 Portfolio</b></a> |
-  <a href="https://www.kaggle.com/nikhilkumar8085" target="_blank"><b>📊 Kaggle</b></a>
-</p>
-
----
 
 <h3 align="center">🚀 Quote</h3>
 
