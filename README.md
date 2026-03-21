@@ -39,7 +39,7 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
 <a><img align="right" src="/GOKU.gif" width="360" height="360"></img></a>
 
 🔥 **About Me (Skills)** — [**Why I Belong in Your Team**](your-portfolio-link-here)  
-- 💻 Passionate **ai/ml + datascience** skilled in  **Python** stacks — building scalable, high-performance solutions.  
+- 💻 Passionate ** MLOOPS ** ,** LANGCHAIN + GEN AI**, ** TRANSFORMERS**,** LARGE LANGUAGE MODELS**, ** NLP** **ai/ml + datascience** skilled in  **Python** stacks — building scalable, high-performance solutions.  
 - 🧠 **Problem-Solving Enthusiast** — Exploring and Handsonworking on RealWorld projects.  
 - 🚀 Experienced in **end-to-end Mlmodels**, mlops , databases, and DevOps workflows.  
 - 🏆 **Achievements:** 🥇 *microsoftcertifcate* (linkdn certificate) • 🥈 *best college student * • ⭐ *Agentic AI* * successful completed claude Ai course and certified.  
