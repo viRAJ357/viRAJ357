@@ -9,26 +9,20 @@
  <p align="center"><b>Ex - Intern At Istudio | Intern At Labmentix | Ai/ML | campus x Student  | Deeplearning| Datascience full Developer|  MLOPS  | DATA WORKER|  GOOGLE CERTIFICATE  | Open Source Learner | 
 AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models  
 </b></p>
-
 <h3 align="center">🌐 Connect with me</h3>
 
 <p align="center">
-
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/nikhil-kumar-406217323" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- GitHub -->
   <a href="https://github.com/viRAJ357" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <!-- Twitter -->
   <a href="https://x.com/Nikhilkuma60977" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-
 </p>
 
 ---
@@ -36,27 +30,21 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
 <h3 align="center">📬 Reach Me</h3>
 
 <p align="center">
-
-  <!-- Email -->
   <a href="mailto:nikhilsingh.aarya@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <!-- Instagram -->
   <a href="https://www.instagram.com/nikhilkumar421" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <!-- Kaggle -->
   <a href="https://www.kaggle.com/nikhilkumar8085" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 
-  <!-- Portfolio -->
   <a href="https://huggingface.co/spaces/viraj-421/AUTONOMOUSPORTFOLIO" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
 </p>
 
 ---
@@ -64,26 +52,8 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
 <h3 align="center">⚡ My Work</h3>
 
 <p align="center">
-  🔗 Portfolio: https://huggingface.co/spaces/viraj-421/AUTONOMOUSPORTFOLIO <br>
-  📊 Kaggle: https://www.kaggle.com/nikhilkumar8085
-</p>
-
----
-
-<h3 align="center">🔥 Skills</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react,nodejs,mysql,git,github,tensorflow,pytorch" />
-</p>
-
----
-
-<h3 align="center">📈 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viRAJ357&show_icons=true&theme=radical" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viRAJ357&theme=radical" />
+  <a href="https://huggingface.co/spaces/viraj-421/AUTONOMOUSPORTFOLIO" target="_blank"><b>🌐 Portfolio</b></a> |
+  <a href="https://www.kaggle.com/nikhilkumar8085" target="_blank"><b>📊 Kaggle</b></a>
 </p>
 
 ---
@@ -93,7 +63,10 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
 <p align="center">
   "Consistency + Hard Work = Unstoppable Growth 🔥"
 </p>
----
+
+
+
+ 
 ## About Me
 <!-- <img align="right" alt="Coding" width="500" height="350" src="https://www.ahmetyardimci.com/wp-content/uploads/2024/08/helloworld_1.gif"> -->
 <a><img align="right" src="/GOKU.gif" width="360" height="360"></img></a>
