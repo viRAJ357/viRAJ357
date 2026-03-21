@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Nikhil Kumar Singh (AI/ML Enthusiast)</b></h1>
 <!-- <h1 align="center">Hi 👋, Im Nikhilkumar singh.</h1> -->
-<h2 align="center"><b>Datascience and AI/ML & AI Explorer , Fresher as Btech CSE Undergarduate 💯   My Portfolio link = https://huggingface.co/spaces/viraj-421/AUTONOMOUSPORTFOLIO </b></h2> 
+<h2 align="center"><b>Datascience and AI/ML & AI Explorer , Fresher as Btech CSE Undergraduate  💯   My Portfolio link = https://huggingface.co/spaces/viraj-421/AUTONOMOUSPORTFOLIO </b></h2> 
 
 <!-- <h3 align="center"> 🚀 datascience   | AI Enthusiast | Problem Solver</h3> -->
  <p align="center"><b>Ex - Intern At Istudio | Intern At Labmentix | Ai/ML | campus x Student  | Deeplearning| Datascience full Developer|  MLOPS  | DATA WORKER|  GOOGLE CERTIFICATE  | Open Source Learner | 
@@ -39,13 +39,13 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
 <a><img align="right" src="/GOKU.gif" width="360" height="360"></img></a>
 
 🔥 **About Me (Skills)** — [**Why I Belong in Your Team**](your-portfolio-link-here)  
-- 💻 Passionate **ai/ml + datascience** skilled in **MERN** and **Python** stacks — building scalable, high-performance solutions.  
+- 💻 Passionate **ai/ml + datascience** skilled in  **Python** stacks — building scalable, high-performance solutions.  
 - 🧠 **Problem-Solving Enthusiast** — Exploring and Handsonworking on RealWorld projects.  
 - 🚀 Experienced in **end-to-end Mlmodels**, mlops , databases, and DevOps workflows.  
 - 🏆 **Achievements:** 🥇 *microsoftcertifcate* (linkdn certificate) • 🥈 *best college student * • ⭐ *Agentic AI* * successful completed claude Ai course and certified.  
 - 🌱 Continuously learning new technologies — ML MODELS TO AGENTIC AI.  
 - 🧩 Collaborative **Team Player & Innovator**, passionate about turning ideas into impactful products.  
-- ⚡ Outside of tech, I enjoy adventures trips , vlogging , and taking on creative challenges.  
+- ⚡ Outside of tech, I enjoy adventures trips , vlogging , and taking on creative challenges, playing chess.  
 
 
 <!-- - 🔭 I’m currently working on **LLMS**
@@ -67,7 +67,7 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
 
 ### **LABMENTIX**
 
-#### **Python Developer Intern (From Aug 2025 - Oct 2025)**
+#### **AI/ML Intern (From 1 JAN 2026 - 1 MAY 2026)**
 
 * 🤖 Contributed to two **enterprise-level AI ** — *AI Collaboration Platform* and *Gamified Server Shepherd* — under the **Industry-Level Python Development Program** focused on **real-time systems, AI/CV integration, and interactive dashboards**.
 
