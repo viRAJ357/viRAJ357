@@ -66,7 +66,7 @@ AI TOOLS  Explorer  |💡 Turning Ideas into Code and Ml Models
 🔥 **About Me (Skills)** — [**Why I Belong in Your Team**](your-portfolio-link-here)  
 - 💻 Passionate ** MLOOPS ** ,** LANGCHAIN + GEN AI**, ** TRANSFORMERS**,** LARGE LANGUAGE MODELS**, ** NLP** **ai/ml + datascience** skilled in  **Python** stacks — building scalable, high-performance solutions.  
 - 🧠 **Problem-Solving Enthusiast** — Exploring and Handsonworking on RealWorld projects.  
-- 🚀 Experienced in **end-to-end Mlmodels**, mlops , databases, and DevOps workflows.  
+- 🚀 Experienced in **end-to-end Mlmodels**, mlops , databases, and DevOps workflows,hands on tool like  powerbi ,chatgtp, claude n8n,gemni,crewai,figma .  
 - 🏆 **Achievements:** 🥇 *microsoftcertifcate* (linkdn certificate) • 🥈 *best college student * • ⭐ *Agentic AI* * successful completed claude Ai course and certified.  
 - 🌱 Continuously learning new technologies — ML MODELS TO AGENTIC AI.  
 - 🧩 Collaborative **Team Player & Innovator**, passionate about turning ideas into impactful products.  
